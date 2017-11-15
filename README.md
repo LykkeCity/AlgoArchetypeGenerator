@@ -17,6 +17,5 @@ cd target\generated-sources\archetype; mvn clean install
 # To generate a a new java application from the archetype 
 
 ```
-mvn archetype:create-from-project
-
+mvn archetype:generate -DarchetypeCatalog=local
 ```
