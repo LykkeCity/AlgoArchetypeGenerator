@@ -28,7 +28,7 @@
                               <!-- MainClass in mainfest make a executable jar -->
                               <archive>
                                     <manifest>
-                                          <mainClass>com.lykke.algos.algo.Algo</mainClass>
+                                          <mainClass>${groupId}.${artifactId}.Algo</mainClass>
                                     </manifest>
                               </archive>
 
