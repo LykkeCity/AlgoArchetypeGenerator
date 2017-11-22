@@ -11,7 +11,17 @@
             <dependency>
                   <groupId>com.lykke.hft</groupId>
                   <artifactId>hft-client</artifactId>
-                  <version>1.0.0</version>
+                  <version>1.0.5</version>
+            </dependency>
+            <dependency>
+                  <groupId>org.apache.logging.log4j</groupId>
+                  <artifactId>log4j-api</artifactId>
+                  <version>2.9.1</version>
+            </dependency>
+            <dependency>
+                  <groupId>org.apache.logging.log4j</groupId>
+                  <artifactId>log4j-core</artifactId>
+                  <version>2.9.1</version>
             </dependency>
       </dependencies>
       <build>
