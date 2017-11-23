@@ -1,4 +1,4 @@
-package com.lykke.algos.algo;
+package com.lykke.algos;
 
 import java.io.FileInputStream;
 import java.io.IOException;

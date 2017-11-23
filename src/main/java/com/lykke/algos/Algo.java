@@ -1,4 +1,4 @@
-package com.lykke.algos.algo;
+package com.lykke.algos;
 
 import com.lykke.hft.ApiClient;
 import com.lykke.hft.client.OrdersApi;

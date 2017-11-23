@@ -12,7 +12,7 @@
         <Root level="info">
             <AppenderRef ref="Console" />
         </Root>
-        <Logger name="com.lykke.algos.algo.Algo" level="trace">
+        <Logger name="com.lykke.algos.Algo" level="trace">
             <AppenderRef ref="mylog"/>
         </Logger>
     </Loggers>
